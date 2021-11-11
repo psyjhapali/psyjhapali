@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCetizjLDvPKSMhwG4Xe79nQ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube-in-alt.svg" alt="psyjhapali" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCetizjLDvPKSMhwG4Xe79nQ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="psyjhapali" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/computer-engineering-66560b225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="psyjhapali" height="30" width="40" /></a>
 <a href="https://www.facebook.com/psyjhapali727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="psyjhapali/727" height="30" width="40" /></a>
 </p>
